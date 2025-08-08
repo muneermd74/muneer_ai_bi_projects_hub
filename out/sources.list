@@ -1,0 +1,11 @@
+/workspace/src/main/java/com/example/finance/Main.java
+/workspace/src/main/java/com/example/finance/statements/InventoryControlStatement.java
+/workspace/src/main/java/com/example/finance/statements/IncomeStatement.java
+/workspace/src/main/java/com/example/finance/statements/BalanceSheet.java
+/workspace/src/main/java/com/example/finance/util/Money.java
+/workspace/src/main/java/com/example/finance/accounting/JournalEntry.java
+/workspace/src/main/java/com/example/finance/accounting/Entry.java
+/workspace/src/main/java/com/example/finance/accounting/Ledger.java
+/workspace/src/main/java/com/example/finance/accounting/AccountType.java
+/workspace/src/main/java/com/example/finance/inventory/InventoryManager.java
+/workspace/src/main/java/com/example/finance/inventory/InventoryEvent.java
